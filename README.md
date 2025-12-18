@@ -1,5 +1,5 @@
 # Airbnb New York Market Analysis ENGLISH VERSION
-Data Normalization, Modeling &amp; Visualization with Excel and Power BI
+_Data Normalization, Modeling &amp; Visualization with Excel and Power BI_
 
 ## Project Overview 📌 
 This project analyzes Airbnb listings in New York City with the goal of understanding how location, room type, availability, pricing, and reputation impact accommodation prices and user experience.
