@@ -51,11 +51,11 @@ Relationships were defined using primary and foreign keys to enable efficient fi
 
 ## Power Query Transformations ⚙️
 Key transformations performed in Power Query include:
-Data type corrections
-Currency cleaning (removal of symbols, regional formatting)
-Error handling and row filtering
-Date formatting
-Sorting and trimming outliers
+- Data type corrections
+- Currency cleaning (removal of symbols, regional formatting)
+- Error handling and row filtering
+- Date formatting
+- Sorting and trimming outliers
 
 ## DAX Measures & KPIs 📐
 Several calculated measures were created, including:
@@ -73,20 +73,20 @@ These measures power the dashboards and KPIs.
 
 The Power BI report is structured into multiple analytical views:
 ### 🔹 Neighborhood Analysis
-Average price by neighborhood and borough
-Availability and room type distribution
-Identification of high-cost and high-density areas
+- Average price by neighborhood and borough
+- Availability and room type distribution
+- Identification of high-cost and high-density areas
 <img width="863" height="486" alt="Captura de pantalla 2025-12-18 175809" src="https://github.com/user-attachments/assets/f036d417-13e7-4c96-98be-b51a2a665438" />
 
 ### 🔹 Quality & Reputation
-Relationship between ratings, number of reviews, and price
-Comparison of reputation across boroughs and neighborhoods
+- Relationship between ratings, number of reviews, and price
+- Comparison of reputation across boroughs and neighborhoods
 <img width="861" height="483" alt="Captura de pantalla 2025-12-18 175819" src="https://github.com/user-attachments/assets/ca3f6742-a6ff-47ff-947f-5ec61768db5c" />
 
 ### 🔹 Booking Rules & Availability
-Minimum nights vs availability
-Cancellation policies by area
-Percentage of verified hosts
+- Minimum nights vs availability
+- Cancellation policies by area
+- Percentage of verified hosts
 <img width="858" height="486" alt="Captura de pantalla 2025-12-18 175835" src="https://github.com/user-attachments/assets/fd18b61f-7351-4b77-93ad-64f7bc3f1844" />
 
 
